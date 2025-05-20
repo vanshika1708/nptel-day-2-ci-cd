@@ -6,6 +6,9 @@ jobs:
   test:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: read  # minimal permission needed to checkout repo
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
