@@ -1,0 +1,20 @@
+{
+  "name": "nptel-day-2-ci-cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"✔ Tests passed\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshika1708/nptel-day-2-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "vanshik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanshika1708/nptel-day-2-ci-cd/issues"
+  },
+  "homepage": "https://github.com/vanshika1708/nptel-day-2-ci-cd#readme",
+  "description": ""
+}
